@@ -66,8 +66,8 @@ I’m passionate about building meaningful digital experiences — from **React 
 ---
 
 ## 📫 How to reach me
-- **Email:** *add your email here*  
-- **LinkedIn:** *add link here*  
+- **Email:** *mandarwanjari@gmail.com*  
+- **LinkedIn:** *www.linkedin.com/in/mandar-wanjari-01b224239*  
 
 ---
 
